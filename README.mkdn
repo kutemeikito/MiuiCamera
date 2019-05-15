@@ -1,0 +1,16 @@
+# MIUI Camera For Redmi Note 4X (Mido)
+
+To use it add this line to common.mk or in device tree
+```
+include vendor/MiuoCamera/config.mk
+```
+
+* Please always attach crrdits! 
+
+### Credits : ###
+- mizdrake7 (I use libs from his port)
+- jhenrique (I use MiuiCamera.apk from his repository)
+
+### Known bugs : ###
+- Square mode sometime work
+- Panorama sometime work
