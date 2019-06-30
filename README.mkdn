@@ -7,7 +7,7 @@
 
 To use it add this line to common.mk or in device tree
 ```
-include vendor/MiuoCamera/config.mk
+include vendor/MiuiCamera/config.mk
 ```
 
 * Please always attach crrdits! 
