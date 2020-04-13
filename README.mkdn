@@ -4,6 +4,7 @@
 - Redmi Note 4/4X (mido)
 - Xiaomi Mi 4i (ferrari)
 - Redmi Note 5/5 Pro (whyred)
+- Redmi Note 8 (ginkgo)
 
 To use it add this line to common.mk or in device tree
 ```
